@@ -210,10 +210,6 @@ The main concepts include:
 * **Backtracking:** exploring possible solutions and undoing choices when necessary.
 * **Huffman Coding:** using binary trees to build variable-length encodings.
 
-## 🧹 Suggested `.gitignore`
-
-This repository contains several compiled files and generated outputs. These files usually do not need to be versioned.
-
 ## 📌 Notes
 
 This repository is intended for academic study and personal learning documentation. Some folders contain isolated exercises, while others contain complete projects with multiple source files, headers, test cases, and reports.
